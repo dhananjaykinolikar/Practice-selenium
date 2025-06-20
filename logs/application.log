@@ -1,0 +1,23 @@
+2025-06-20 16:45:30 [main] INFO  Log - Using Chrome driver
+2025-06-20 16:45:31 [main] INFO  Log - Inserting url
+2025-06-20 16:45:36 [main] INFO  Log - Quiting driver
+2025-06-20 16:59:05 [main] INFO  Log - Using Chrome driver
+2025-06-20 17:00:40 [main] INFO  Log - Using Chrome driver
+2025-06-20 18:36:18 [main] INFO  Log - Using Chrome driver
+2025-06-20 18:38:51 [main] INFO  Log - Using Chrome driver
+2025-06-20 18:41:39 [main] INFO  Log - Using Chrome driver
+2025-06-20 18:46:06 [main] INFO  Log - Using Chrome driver
+2025-06-20 18:48:36 [main] INFO  Log - Using Chrome driver
+2025-06-20 18:52:48 [main] INFO  Log - Using Chrome driver
+2025-06-20 18:57:43 [main] INFO  Log - Using Chrome driver
+2025-06-20 18:59:34 [main] INFO  Log - Inserting url
+2025-06-20 18:59:38 [main] INFO  Log - I am in LogTestcase1
+2025-06-20 18:59:54 [main] INFO  Log - closing the webpage
+2025-06-20 19:00:23 [main] INFO  Log - Using Chrome driver
+2025-06-20 19:00:25 [main] INFO  Log - Inserting url
+2025-06-20 19:00:30 [main] INFO  Log - I am in LogTestcase1
+2025-06-20 19:00:31 [main] INFO  Log - closing the webpage
+2025-06-20 19:03:49 [main] INFO  Log - Using Chrome driver
+2025-06-20 19:03:51 [main] INFO  Log - Inserting url
+2025-06-20 19:03:53 [main] INFO  Log - I am in LogTestcase1
+2025-06-20 19:03:56 [main] INFO  Log - closing the webpage

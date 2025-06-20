@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-20T19:03:48 IST" name="Suite" finished-at="2025-06-20T19:03:56 IST" duration-ms="7937">
+    <groups>
+    </groups>
+    <test started-at="2025-06-20T19:03:48 IST" name="Test" finished-at="2025-06-20T19:03:56 IST" duration-ms="7937">
+      <class name="Test.LoginTestcase1">
+        <test-method is-config="true" signature="setUpReport()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-20T19:03:48 IST" name="setUpReport" finished-at="2025-06-20T19:03:48 IST" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-20T19:03:48 IST" name="setup" finished-at="2025-06-20T19:03:53 IST" duration-ms="4402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginpagecase()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-20T19:03:53 IST" name="loginpagecase" finished-at="2025-06-20T19:03:56 IST" duration-ms="3279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpagecase -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-20T19:03:56 IST" name="tearDown" finished-at="2025-06-20T19:03:56 IST" duration-ms="201" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginpagecase status=SUCCESS method=LoginTestcase1.loginpagecase()[pri:0, instance:Test.LoginTestcase1@302552ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-20T19:03:56 IST" name="flushReport" finished-at="2025-06-20T19:03:57 IST" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- Test.LoginTestcase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
