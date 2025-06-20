@@ -21,6 +21,7 @@ public class LoginTestcase1 extends BaseTest{
 		loginpage1.enterusername("admin@yourstore.com");
 		loginpage1.enterpassword("admin");
 		loginpage1.Loginbutton();
+		Log.info("Page open");
 	}
 
 }
