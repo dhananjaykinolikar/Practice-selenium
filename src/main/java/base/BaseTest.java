@@ -14,6 +14,7 @@ import com.aventstack.extentreports.MediaEntityBuilder;
 
 import util.ExtentReportManager;
 import util.Log;
+import utils.EmailUtils;
 
 
 public class BaseTest {
@@ -30,7 +31,8 @@ public class BaseTest {
 	@AfterSuite
 	public void flushReport() {
 		extent.flush();
-		//String report = ExtendReportManager.reportPath;
+		String reportPath = ExtentReportManager.reportPath;
+		EmailUtils.sendTestReport(reportPath);
 	}
 	
 	@BeforeMethod
