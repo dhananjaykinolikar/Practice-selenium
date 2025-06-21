@@ -1,40 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-21T18:36:26 IST" name="Default suite" finished-at="2025-06-21T18:36:34 IST" duration-ms="7636">
+  <suite started-at="2025-06-21T19:37:13 IST" name="Suite" finished-at="2025-06-21T19:37:32 IST" duration-ms="18796">
     <groups>
     </groups>
-    <test started-at="2025-06-21T18:36:26 IST" name="Default test" finished-at="2025-06-21T18:36:34 IST" duration-ms="7636">
+    <test started-at="2025-06-21T19:37:13 IST" name="Test" finished-at="2025-06-21T19:37:32 IST" duration-ms="18796">
       <class name="Test.LoginTestcase1">
-        <test-method is-config="true" signature="setUpReport()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:36:26 IST" name="setUpReport" finished-at="2025-06-21T18:36:26 IST" duration-ms="572" status="PASS">
+        <test-method is-config="true" signature="setUpReport()[pri:0, instance:Test.LoginTestcase1@7770f470]" started-at="2025-06-21T19:37:13 IST" name="setUpReport" finished-at="2025-06-21T19:37:13 IST" duration-ms="532" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpReport -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:36:27 IST" name="setup" finished-at="2025-06-21T18:36:33 IST" duration-ms="5951" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTestcase1@7770f470]" started-at="2025-06-21T19:37:15 IST" name="setup" finished-at="2025-06-21T19:37:20 IST" duration-ms="4782" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginpagecase()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:36:33 IST" name="loginpagecase" finished-at="2025-06-21T18:36:34 IST" duration-ms="1265" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginpagecase -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:36:34 IST" name="tearDown" finished-at="2025-06-21T18:36:34 IST" duration-ms="343" status="PASS">
+        <test-method signature="excelloginpagecase(java.lang.String,java.lang.String)[pri:0, instance:Test.LoginTestcase1@7770f470]" started-at="2025-06-21T19:37:20 IST" name="excelloginpagecase" data-provider="logindata" finished-at="2025-06-21T19:37:21 IST" duration-ms="1375" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=loginpagecase status=SUCCESS method=LoginTestcase1.loginpagecase()[pri:0, instance:Test.LoginTestcase1@302552ec] output={null}]]]>
+                <![CDATA[admin@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelloginpagecase -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Test.LoginTestcase1@7770f470]" started-at="2025-06-21T19:37:21 IST" name="tearDown" finished-at="2025-06-21T19:37:22 IST" duration-ms="338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=excelloginpagecase status=SUCCESS method=LoginTestcase1.excelloginpagecase(java.lang.String,java.lang.String)[pri:0, instance:Test.LoginTestcase1@7770f470] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="flushReport()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:36:34 IST" name="flushReport" finished-at="2025-06-21T18:36:35 IST" duration-ms="587" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTestcase1@7770f470]" started-at="2025-06-21T19:37:22 IST" name="setup" finished-at="2025-06-21T19:37:25 IST" duration-ms="3197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginpagecase()[pri:0, instance:Test.LoginTestcase1@7770f470]" started-at="2025-06-21T19:37:25 IST" name="loginpagecase" finished-at="2025-06-21T19:37:26 IST" duration-ms="1364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpagecase -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Test.LoginTestcase1@7770f470]" started-at="2025-06-21T19:37:26 IST" name="tearDown" finished-at="2025-06-21T19:37:27 IST" duration-ms="417" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginpagecase status=SUCCESS method=LoginTestcase1.loginpagecase()[pri:0, instance:Test.LoginTestcase1@7770f470] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTestcase1@7770f470]" started-at="2025-06-21T19:37:27 IST" name="setup" finished-at="2025-06-21T19:37:30 IST" duration-ms="3443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="paramterloginpagecase(java.lang.String,java.lang.String)[pri:0, instance:Test.LoginTestcase1@7770f470]" started-at="2025-06-21T19:37:30 IST" name="paramterloginpagecase" finished-at="2025-06-21T19:37:32 IST" duration-ms="1351" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paramterloginpagecase -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Test.LoginTestcase1@7770f470]" started-at="2025-06-21T19:37:32 IST" name="tearDown" finished-at="2025-06-21T19:37:32 IST" duration-ms="407" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=paramterloginpagecase status=SUCCESS method=LoginTestcase1.paramterloginpagecase(java.lang.String,java.lang.String)[pri:0, instance:Test.LoginTestcase1@7770f470] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:Test.LoginTestcase1@7770f470]" started-at="2025-06-21T19:37:32 IST" name="flushReport" finished-at="2025-06-21T19:37:33 IST" duration-ms="577" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReport -->
       </class> <!-- Test.LoginTestcase1 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

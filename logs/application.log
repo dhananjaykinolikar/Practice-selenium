@@ -37,3 +37,48 @@
 2025-06-21 18:36:33 [main] INFO  Log - I am in LogTestcase1
 2025-06-21 18:36:34 [main] INFO  Log - Page open
 2025-06-21 18:36:34 [main] INFO  Log - closing the webpage
+2025-06-21 18:44:00 [main] INFO  Log - Using Chrome driver
+2025-06-21 18:44:03 [main] INFO  Log - Inserting url
+2025-06-21 18:44:05 [main] INFO  Log - I am in LogTestcase1
+2025-06-21 18:44:07 [main] INFO  Log - Page open
+2025-06-21 18:44:07 [main] INFO  Log - closing the webpage
+2025-06-21 19:23:07 [main] INFO  Log - Using Chrome driver
+2025-06-21 19:23:11 [main] INFO  Log - Inserting url
+2025-06-21 19:23:13 [main] INFO  Log - I am in excelloginpagecase
+2025-06-21 19:23:14 [main] INFO  Log - Page open
+2025-06-21 19:23:14 [main] INFO  Log - closing the webpage
+2025-06-21 19:24:33 [main] INFO  Log - Using Chrome driver
+2025-06-21 19:24:35 [main] INFO  Log - Inserting url
+2025-06-21 19:24:37 [main] INFO  Log - I am in excelloginpagecase
+2025-06-21 19:24:38 [main] INFO  Log - Page open
+2025-06-21 19:24:38 [main] INFO  Log - closing the webpage
+2025-06-21 19:25:14 [main] INFO  Log - Using Chrome driver
+2025-06-21 19:25:16 [main] INFO  Log - Inserting url
+2025-06-21 19:25:17 [main] INFO  Log - I am in excelloginpagecase
+2025-06-21 19:25:19 [main] INFO  Log - Page open
+2025-06-21 19:25:19 [main] INFO  Log - closing the webpage
+2025-06-21 19:25:19 [main] INFO  Log - Using Chrome driver
+2025-06-21 19:25:20 [main] INFO  Log - Inserting url
+2025-06-21 19:25:23 [main] INFO  Log - I am in LogTestcase1
+2025-06-21 19:25:24 [main] INFO  Log - Page open
+2025-06-21 19:25:24 [main] INFO  Log - closing the webpage
+2025-06-21 19:36:34 [main] INFO  Log - Using Chrome driver
+2025-06-21 19:36:37 [main] INFO  Log - Inserting url
+2025-06-21 19:36:40 [main] INFO  Log - I am in paramterloginpagecase
+2025-06-21 19:36:41 [main] INFO  Log - Page open
+2025-06-21 19:36:41 [main] INFO  Log - closing the webpage
+2025-06-21 19:37:15 [main] INFO  Log - Using Chrome driver
+2025-06-21 19:37:17 [main] INFO  Log - Inserting url
+2025-06-21 19:37:20 [main] INFO  Log - I am in excelloginpagecase
+2025-06-21 19:37:21 [main] INFO  Log - Page open
+2025-06-21 19:37:21 [main] INFO  Log - closing the webpage
+2025-06-21 19:37:22 [main] INFO  Log - Using Chrome driver
+2025-06-21 19:37:23 [main] INFO  Log - Inserting url
+2025-06-21 19:37:25 [main] INFO  Log - I am in LogTestcase1
+2025-06-21 19:37:26 [main] INFO  Log - Page open
+2025-06-21 19:37:26 [main] INFO  Log - closing the webpage
+2025-06-21 19:37:27 [main] INFO  Log - Using Chrome driver
+2025-06-21 19:37:28 [main] INFO  Log - Inserting url
+2025-06-21 19:37:30 [main] INFO  Log - I am in paramterloginpagecase
+2025-06-21 19:37:32 [main] INFO  Log - Page open
+2025-06-21 19:37:32 [main] INFO  Log - closing the webpage
