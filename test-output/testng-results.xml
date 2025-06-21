@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-21T18:28:34 IST" name="Default suite" finished-at="2025-06-21T18:28:41 IST" duration-ms="7417">
+  <suite started-at="2025-06-21T18:36:26 IST" name="Default suite" finished-at="2025-06-21T18:36:34 IST" duration-ms="7636">
     <groups>
     </groups>
-    <test started-at="2025-06-21T18:28:34 IST" name="Default test" finished-at="2025-06-21T18:28:41 IST" duration-ms="7417">
+    <test started-at="2025-06-21T18:36:26 IST" name="Default test" finished-at="2025-06-21T18:36:34 IST" duration-ms="7636">
       <class name="Test.LoginTestcase1">
-        <test-method is-config="true" signature="setUpReport()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:28:33 IST" name="setUpReport" finished-at="2025-06-21T18:28:34 IST" duration-ms="596" status="PASS">
+        <test-method is-config="true" signature="setUpReport()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:36:26 IST" name="setUpReport" finished-at="2025-06-21T18:36:26 IST" duration-ms="572" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpReport -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:28:34 IST" name="setup" finished-at="2025-06-21T18:28:39 IST" duration-ms="5609" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:36:27 IST" name="setup" finished-at="2025-06-21T18:36:33 IST" duration-ms="5951" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginpagecase()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:28:39 IST" name="loginpagecase" finished-at="2025-06-21T18:28:41 IST" duration-ms="1371" status="PASS">
+        <test-method signature="loginpagecase()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:36:33 IST" name="loginpagecase" finished-at="2025-06-21T18:36:34 IST" duration-ms="1265" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpagecase -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:28:41 IST" name="tearDown" finished-at="2025-06-21T18:28:41 IST" duration-ms="354" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:36:34 IST" name="tearDown" finished-at="2025-06-21T18:36:34 IST" duration-ms="343" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -30,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="flushReport()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:28:41 IST" name="flushReport" finished-at="2025-06-21T18:28:42 IST" duration-ms="667" status="PASS">
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:Test.LoginTestcase1@302552ec]" started-at="2025-06-21T18:36:34 IST" name="flushReport" finished-at="2025-06-21T18:36:35 IST" duration-ms="587" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReport -->

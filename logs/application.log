@@ -32,3 +32,8 @@
 2025-06-21 18:28:39 [main] INFO  Log - I am in LogTestcase1
 2025-06-21 18:28:41 [main] INFO  Log - Page open
 2025-06-21 18:28:41 [main] INFO  Log - closing the webpage
+2025-06-21 18:36:27 [main] INFO  Log - Using Chrome driver
+2025-06-21 18:36:30 [main] INFO  Log - Inserting url
+2025-06-21 18:36:33 [main] INFO  Log - I am in LogTestcase1
+2025-06-21 18:36:34 [main] INFO  Log - Page open
+2025-06-21 18:36:34 [main] INFO  Log - closing the webpage
