@@ -14,7 +14,7 @@ import com.aventstack.extentreports.MediaEntityBuilder;
 
 import util.ExtentReportManager;
 import util.Log;
-import utils.EmailUtils;
+import util.EmailUtils;
 
 
 public class BaseTest {
